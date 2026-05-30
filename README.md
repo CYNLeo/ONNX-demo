@@ -55,7 +55,7 @@ python export_onnx.py
 Example:
 
 ```bash
-python inference.py
+python run_onnx.py
 ```
 
 The inference pipeline:
