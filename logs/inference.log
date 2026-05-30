@@ -1,0 +1,8 @@
+2026-05-30 15:17:22,510 - INFO - Execution providers: ['CUDAExecutionProvider', 'CPUExecutionProvider']
+2026-05-30 15:17:23,008 - INFO - Model warm up sucessfully
+2026-05-30 15:17:23,060 - INFO - Execution providers: ['CUDAExecutionProvider', 'CPUExecutionProvider']
+2026-05-30 15:17:24,605 - INFO - Model warm up sucessfully
+2026-05-30 15:17:25,356 - INFO - infoBox_fp32.onnx Average latency: 0.007331275939941406
+2026-05-30 15:17:25,798 - INFO - infoBox_fp16.onnx Average latency: 0.004249892234802246
+2026-05-30 15:17:25,822 - INFO - Inference time = 0.007442951202392578
+2026-05-30 15:17:25,844 - INFO - Inference time = 0.004397153854370117

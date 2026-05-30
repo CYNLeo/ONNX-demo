@@ -1,0 +1,58 @@
+2026-05-28 23:36:56,976 - INFO - Model warm up sucessfully
+2026-05-28 23:38:14,277 - INFO - Model warm up sucessfully
+2026-05-28 23:40:16,519 - INFO - Model warm up sucessfully
+2026-05-28 23:41:41,362 - INFO - Model warm up sucessfully
+2026-05-28 23:43:04,062 - INFO - Model warm up sucessfully
+2026-05-28 23:43:55,505 - INFO - Model warm up sucessfully
+2026-05-28 23:44:16,117 - INFO - Model warm up sucessfully
+2026-05-28 23:45:39,220 - INFO - Model warm up sucessfully
+2026-05-28 23:47:14,021 - INFO - Model warm up sucessfully
+2026-05-28 23:47:39,055 - INFO - Model warm up sucessfully
+2026-05-28 23:50:32,053 - INFO - Model warm up sucessfully
+2026-05-28 23:53:41,479 - INFO - Model warm up sucessfully
+2026-05-28 23:54:06,083 - INFO - Model warm up sucessfully
+2026-05-28 23:54:58,736 - INFO - Model warm up sucessfully
+2026-05-28 23:59:05,201 - INFO - Model warm up sucessfully
+2026-05-29 00:00:27,245 - INFO - Model warm up sucessfully
+2026-05-29 00:00:35,809 - INFO - Model warm up sucessfully
+2026-05-29 00:00:46,271 - INFO - Model warm up sucessfully
+2026-05-29 00:00:56,382 - INFO - Model warm up sucessfully
+2026-05-29 00:01:10,893 - INFO - Model warm up sucessfully
+2026-05-29 00:01:56,819 - INFO - Model warm up sucessfully
+2026-05-29 00:02:06,461 - INFO - Model warm up sucessfully
+2026-05-29 00:02:39,787 - INFO - Model warm up sucessfully
+2026-05-29 00:02:55,134 - INFO - Model warm up sucessfully
+2026-05-29 00:03:37,016 - INFO - Model warm up sucessfully
+2026-05-29 00:11:41,611 - INFO - Model warm up sucessfully
+2026-05-29 00:12:09,499 - INFO - Model warm up sucessfully
+2026-05-29 00:12:51,179 - INFO - Model warm up sucessfully
+2026-05-29 00:13:43,000 - INFO - Model warm up sucessfully
+2026-05-29 00:13:51,950 - INFO - Model warm up sucessfully
+2026-05-29 00:16:10,545 - INFO - Model warm up sucessfully
+2026-05-29 00:16:18,067 - INFO - Model warm up sucessfully
+2026-05-29 00:24:07,554 - INFO - Model warm up sucessfully
+2026-05-29 00:28:04,302 - INFO - Model warm up sucessfully
+2026-05-29 00:28:42,232 - INFO - Model warm up sucessfully
+2026-05-29 00:29:21,347 - INFO - Model warm up sucessfully
+2026-05-29 00:29:44,137 - INFO - Model warm up sucessfully
+2026-05-29 00:29:55,575 - INFO - Model warm up sucessfully
+2026-05-29 00:30:17,958 - INFO - Model warm up sucessfully
+2026-05-29 00:34:03,713 - INFO - Model warm up sucessfully
+2026-05-29 00:39:29,431 - INFO - Model warm up sucessfully
+2026-05-29 00:39:38,456 - INFO - Model warm up sucessfully
+2026-05-29 00:39:58,833 - INFO - Model warm up sucessfully
+2026-05-29 00:41:11,883 - INFO - Model warm up sucessfully
+2026-05-29 00:44:38,452 - INFO - Model warm up sucessfully
+2026-05-29 14:05:54,761 - INFO - Model warm up sucessfully
+2026-05-29 14:05:55,014 - INFO - Inference time0.12825274467468262
+2026-05-29 14:11:34,041 - INFO - Execution providers: ['CPUExecutionProvider']
+2026-05-29 14:11:34,174 - INFO - Model warm up sucessfully
+2026-05-29 14:11:59,362 - INFO - Execution providers: ['CPUExecutionProvider']
+2026-05-29 14:11:59,484 - INFO - Model warm up sucessfully
+2026-05-29 14:11:59,753 - INFO - Inference time = 0.13780641555786133
+2026-05-29 14:13:58,429 - INFO - Execution providers: ['CPUExecutionProvider']
+2026-05-29 14:13:58,550 - INFO - Model warm up sucessfully
+2026-05-29 14:13:58,770 - INFO - Inference time = 0.1007387638092041
+2026-05-29 14:14:23,708 - INFO - Execution providers: ['CPUExecutionProvider']
+2026-05-29 14:14:23,833 - INFO - Model warm up sucessfully
+2026-05-29 14:14:23,965 - INFO - Inference time = 0.11189031600952148
