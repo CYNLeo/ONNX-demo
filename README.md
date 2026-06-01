@@ -20,7 +20,7 @@ The objective is to understand the model deployment pipeline commonly used in pr
 ```text
 ONNX-demo/
 ├── export_onnx.py
-├── inference.py
+├── run_onnx.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
